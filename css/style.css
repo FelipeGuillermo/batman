@@ -1,0 +1,139 @@
+header {
+    background-color: #00669F;
+    color: black;
+    font-size: 70px;
+    padding: 50px 0px 10px 20px;
+    width: 100%;
+    margin-top: 60px;
+    z-index: 1;
+    position: sticky;
+    top: 0;
+}
+
+.descuento {
+    background-color: #1CD1B0;
+    padding: 20px 0px 20px 20px;
+    position: absolute;
+    top: 1px;
+    width: 100%;
+
+}
+
+.batman {
+    width: 301px;
+    height: 500px;
+    border: solid 1px; 
+    border-radius: 15px;
+    position: relative;
+    left: 5%;
+    box-sizing: border-box;
+}
+
+.bati {
+position: relative;
+left: 70px;
+top: 130px;
+}
+
+.fondo {
+    position: relative;
+    bottom: 135px;
+    z-index: -1;
+}
+
+.corazon {
+    position: relative;
+    left: 20px;
+    bottom: 310px;
+}
+
+.contenido {
+    position: relative;
+    bottom: 130px;
+}
+
+.harley {
+    width: 301px;
+    height: 500px;
+    border: solid 1px; 
+    border-radius: 15px;
+    position: relative;
+    left: 35%;
+    bottom: 500px;
+    box-sizing: border-box;
+}
+
+.harleyfoto {
+    position: relative;
+left: 70px;
+top: 130px;
+}
+
+.moverbat {
+    position: relative;
+    left: 60%;
+    bottom: 1000px;
+}
+
+.boton1 {
+    background-color: #00669F;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    left: 35%;
+    bottom: 120px;
+    box-sizing: border-box;
+}
+
+.boton2 {
+    background-color: #00669F;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    left: 35%;
+    bottom: 120px;
+    box-sizing: border-box;
+}
+
+.boton3 {
+    background-color: #00669F;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    left: 35%;
+    bottom: 120px;
+    box-sizing: border-box;
+}
+.body {
+    margin: 100px 20px 50px 20px;
+}
+
+footer {
+    background-color: #00669F;
+    color: white;
+    padding: 20px 0px 20px 20px;
+    font-weight: bold;
+    position: relative;
+    bottom: 800px;
+}
+
+h2 {
+    padding: 10px;
+    text-align: center;
+}
+p {
+    margin: 10px 10px 10px 10px;
+    text-align: left;
+}
